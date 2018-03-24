@@ -10,6 +10,7 @@ namespace ServerApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("f");
         }
     }
 }
